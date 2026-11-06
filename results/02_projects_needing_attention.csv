@@ -1,0 +1,6 @@
+project_name,project_manager,spi,cpi,problem_area,rag
+Network Upgrade,Youssef Samir,0.666,1.104,Schedule,Red
+Vendor Portal,Youssef Samir,1.019,0.796,Cost,Red
+Youth Skills Program,Laila Ibrahim,0.900,0.915,Schedule + Cost,Amber
+Smart Meeting Rooms,Laila Ibrahim,0.902,0.963,Schedule,Amber
+Customer Portal,Sara Hamdy,0.946,0.948,Schedule + Cost,Amber
